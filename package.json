@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Estudo de Node.js para criação de blog de forma completa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GFTietgen/EstudoNodeBlog.git"
+  },
+  "keywords": [
+    "blog",
+    "estudo",
+    "node"
+  ],
+  "author": "Gustavo Figueiredo Tietgen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GFTietgen/EstudoNodeBlog/issues"
+  },
+  "homepage": "https://github.com/GFTietgen/EstudoNodeBlog#readme"
+}
